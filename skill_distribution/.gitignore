@@ -1,0 +1,14 @@
+.env
+*.pid
+*.log
+tasks/
+*.lock
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# 例外：模板文件需要被跟踪
+!templates/config.template.json

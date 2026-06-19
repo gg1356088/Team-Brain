@@ -1,0 +1,9 @@
+{
+    "feishu": {
+        "chat_id": "填写你的飞书群ID，例如 oc_xxxxx"
+    },
+    "workers": {
+        "claude_cmd": "claude",
+        "codex_cmd": "/Applications/Codex.app/Contents/Resources/codex"
+    }
+}

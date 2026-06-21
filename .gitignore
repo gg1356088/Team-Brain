@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.pid
+
+# Logs
+*.log
+
+# Tasks
+tasks/
+*.lock
+
+# IDE
+.vscode/
+.idea/
+
+# 例外：模板文件需要被跟踪
+!templates/config.template.json
